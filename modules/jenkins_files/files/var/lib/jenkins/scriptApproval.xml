@@ -1,5 +1,5 @@
 <?xml version='1.1' encoding='UTF-8'?>
-<scriptApproval plugin="script-security@1.48">
+<scriptApproval plugin="script-security@1.72">
   <approvedScriptHashes>
     <string>017d0db438428731cd600b6ebda805065433520f</string>
     <string>0494f61790c2498fd791726e7f80c2b4bf5667b2</string>
@@ -59,6 +59,7 @@
     <string>6fd7cf47a37d521a97925a0082b11d7ea374f970</string>
     <string>743cbb8b659137aa959690ae8201110e49d36a27</string>
     <string>74b67ffd35e157a16ea2d34c3238d3cbad4e61e3</string>
+    <string>75fe08daf39eaff16c2500f3e1fec87b7fa17921</string>
     <string>793e419588e5d74c4a8da94bdc93d361dd21728a</string>
     <string>7b6b86710a62f0a0011e615b91ae9bbc57038fb9</string>
     <string>7ee16af0b12797f887e93812bedd3c5327d88032</string>
@@ -73,6 +74,7 @@
     <string>91aa51de835edbb0db78cbd771ef95f6288981c0</string>
     <string>9369a08d2b3d3a1ef9a69055e4f64a1a39461209</string>
     <string>9586ed41b96b251d159fbc4f4977e4f71e633412</string>
+    <string>968a43901803938c36eca15fa4f71354d3be5319</string>
     <string>974aceaae2a833ef7bcfc18c5937b50eae29dd03</string>
     <string>977208166c7802d6d3f6e87fbe2ee7d06e7f6a0c</string>
     <string>9d77a2853af389b6f89176f2614f6cd0e92fe282</string>
@@ -92,6 +94,7 @@
     <string>bcdd4eb215f29b7861c2bb2f508a0970aee9b33f</string>
     <string>bdca1978ccf2f8138b94a0ff017679d5142f07ff</string>
     <string>bef33d15b0c419e8e6c1ef9b98d898189ae63c92</string>
+    <string>bfb20dc2f57a4c7c3f618a8c53742e5781ca108f</string>
     <string>bffdf8a8fa225dee03e8d01b89d8795ef17d3cba</string>
     <string>c008a2bb7f37cd1c314d6b1619dbd2fb1c511eef</string>
     <string>c0ea53d98b9e0bcffdb6c6a34c3cd8d98c975c09</string>
@@ -121,6 +124,7 @@
     <string>d94f40e4999df243ad1478b9a2ee329bb70d3177</string>
     <string>d957bbb4969ff61334f6864d393f6852ee65b045</string>
     <string>db3de05964c06031cd05d407a368b021330231c9</string>
+    <string>dc2012d092064a54cc34db3bd17ac45cd63c16b1</string>
     <string>dd39eaa8f95ff58db3f2df606950223db8ebea11</string>
     <string>e309e6c6bfa925c38233aa1a077c042ef8ac0d67</string>
     <string>e3f00afe83d711d70372f7535e6bb5408bfc886a</string>
@@ -132,6 +136,7 @@
     <string>ed590ec28d8c5b2c9e64ca2915cf5d5431c26891</string>
     <string>ee658d9f2a2a3040462e6fce21b2f35411fecf13</string>
     <string>f05404db7967d399b402b3a7d211c470eb6e7b42</string>
+    <string>f3491147c3ba710d4c6ce8733960c8fe8962b529</string>
     <string>f51d90b8a90c9e46bfa5fc6259e71a526b4e88f0</string>
     <string>f760d60c07214818754a7d7acbe7c3d800a60eb4</string>
     <string>f76f077550115287371001313753a00d68f90ec8</string>
