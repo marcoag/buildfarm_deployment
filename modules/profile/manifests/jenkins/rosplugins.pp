@@ -400,7 +400,6 @@ class profile::jenkins::rosplugins {
   ::jenkins::plugin { 'structs':
     version => '1.20',
     require => [ Jenkins::Plugin['command-launcher'], Jenkins::Plugin['jdk-tool'] ]
-w
   }
 
   ::jenkins::plugin { 'subversion':
